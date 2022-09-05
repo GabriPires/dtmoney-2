@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Freelance",
+      "price": 14000,
+      "createdAt": "2022-09-05T22:19:00.894Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche na padaria",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-09-04T22:19:00.894Z"
+    }
+  ]
+}

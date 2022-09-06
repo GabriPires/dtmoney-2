@@ -23,6 +23,30 @@
       "category": "Alimentação",
       "price": 90,
       "createdAt": "2022-09-04T22:19:00.894Z"
+    },
+    {
+      "description": "Compra no cartão",
+      "price": 120,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2022-09-06T21:58:48.471Z",
+      "id": 5
+    },
+    {
+      "description": "Venda de bicicleta",
+      "price": 900,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-06T22:01:26.495Z",
+      "id": 6
+    },
+    {
+      "description": "Helicoptero de combate",
+      "price": 12000,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2022-09-06T22:10:57.594Z",
+      "id": 7
     }
   ]
 }
